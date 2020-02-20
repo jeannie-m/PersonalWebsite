@@ -26,6 +26,10 @@ h3 {
     }
 }
 
+.danger-color-dark{
+    background-color: #D64043 !important;
+}
+
 header{
     height: 50%;
 }
