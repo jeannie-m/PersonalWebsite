@@ -1,0 +1,45 @@
+.view {
+    background: url("../img/ray-hennessy-6-JIDCnZG2E-unsplash.jpg")no-repeat center center;
+    background-size: contain;
+}
+
+.navbar {
+    background-color: transparent;
+}
+
+.top-nav-collapse {
+    background-color: #D64043;
+}
+
+h3 {
+    color: #D64043;
+}
+
+.cardinal{
+    background-color: #D64043;
+    color:white;
+}
+
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: #D64043;
+    }
+}
+
+header{
+    height: 50%;
+}
+
+html,
+body,
+.view {
+  height: 100%;
+}
+
+.btn-rounded {
+    border-radius: 50%;
+}
+
+.from-top{
+    top: 64px;
+}
